@@ -105,11 +105,12 @@ Se aceptan sugerencias y mejoras al proyecto. Puedes enviar un **Pull Request** 
 
 Proyecto desarrollado en pareja por:
 
-- **Alexander Paredes**
 - **Mariany Jurado**
+- **Alexander Paredes**
 
 **Estudiantes de Ingeniería en Sistemas**  
-**Universidad Mariano Gálvez de Guatemala**
+**Universidad Mariano Gálvez**
+//**Guatemala • 17/05/2025**
 
 ---
 
